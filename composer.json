@@ -9,8 +9,9 @@
         }
     ],
     "autoload" : {
-        "files" : [
-            "classes/User.php"
+        "classmap" : [
+            "classes"
+
         ]
     },
     "minimum-stability": "dev",
